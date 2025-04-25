@@ -1,7 +1,7 @@
 # ai-adoption-data
-- a DiD analysis for AI adoption data within the EU, crossed with inequality metrics.
+- A DiD analysis for AI adoption data within the EU, crossed with inequality metrics.
 - I would recommend opening the ipynb in [google colab](https://colab.research.google.com/) for simplicity
-- remember to upload the csv files too
+- Remember to upload the csv files too
 
 # Dataset sources
 
